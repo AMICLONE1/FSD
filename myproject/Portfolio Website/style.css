@@ -35,6 +35,10 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+.profile{
+    height: auto;
+    width: fit-content;
+}
 
 section {
     padding: 2rem;
