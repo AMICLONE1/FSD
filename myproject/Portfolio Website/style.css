@@ -60,6 +60,10 @@ section#about {
     padding: 1rem;
     text-align: left;
 }
+#skills{
+    list-style: none;
+    list-style-type: none;
+}
 
 footer {
     background-color: #333;
